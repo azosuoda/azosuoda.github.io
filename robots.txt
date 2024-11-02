@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://azosuoda.github.io/Cye/sitemap_index.txt
+Sitemap: https://azosuoda.github.io/dST/sitemap_index.txt
+Sitemap: https://azosuoda.github.io/iGM/sitemap_index.txt
+Sitemap: https://azosuoda.github.io/yWA/sitemap_index.txt
